@@ -1,0 +1,26 @@
+. #menu {
+    background-image: url ('https://abrilsuperinteressante.files.wordpress.com/2001/06/afinal-o-que-ecc81-amor.jpeg');  
+  }
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  a {
+    color: teal;
+    texte-decoration: none;
+  }
+  
+  .site-title {
+      text-align: center;
+    color: black;
+  }
+  
+  .site-subtitle {
+     text-align: left;
+    font-stile: italic;
+    color: black;
+  }
